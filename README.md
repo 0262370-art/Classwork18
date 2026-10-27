@@ -69,9 +69,6 @@ A short video demonstrating the interaction running on the Meta Quest 3 will be 
 **Video:** [Insert demo video link]
 
 ## Team Members
-
-| Team Member | GitHub Username 
-|---|---|---|
 | Fátima Sofía Walls Fernández | fatimawalls (https://github.com/fatimawalls) 
 | Regina López Almodovar | 0262370 (https://github.com/0262370) 
 
