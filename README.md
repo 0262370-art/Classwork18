@@ -62,15 +62,9 @@ The main tests include:
 - Verifying that the cube maintains its movement and rotation after release.
 - Confirming that the interaction runs correctly on the headset.
 
-## Demo Video
-
-A short video demonstrating the interaction running on the Meta Quest 3 will be available here:
-
-**Video:** [Insert demo video link]
-
 ## Team Members
-| Fátima Sofía Walls Fernández | fatimawalls (https://github.com/fatimawalls) 
-| Regina López Almodovar | 0262370 (https://github.com/0262370) 
+Fátima Sofía Walls Fernández (https://github.com/fatimawalls)
+Regina López Almodovar (https://github.com/0262370) 
 
 Both team members contributed to the project through meaningful code, documentation, testing, or other identifiable repository contributions.
 
