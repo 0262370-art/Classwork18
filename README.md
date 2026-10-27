@@ -64,7 +64,7 @@ The main tests include:
 
 ## Team Members
 Fátima Sofía Walls Fernández (https://github.com/fatimawalls)
-Regina López Almodovar (https://github.com/0262370) 
+Regina López Almodovar (https://github.com/0262370-art) 
 
 Both team members contributed to the project through meaningful code, documentation, testing, or other identifiable repository contributions.
 
