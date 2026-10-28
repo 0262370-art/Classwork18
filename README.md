@@ -60,11 +60,12 @@ The main tests include:
 - Verifying that the cube can be thrown.
 - Checking that different hand movements produce different throwing speeds and directions.
 - Verifying that the cube maintains its movement and rotation after release.
+- By clicking a controller’s button, a sphere is instantiated and it shoots on the direction of the controller.
 - Confirming that the interaction runs correctly on the headset.
 
 ## Team Members
 Fátima Sofía Walls Fernández (https://github.com/fatimawalls)
-Regina López Almodovar (https://github.com/0262370-art) 
+Regina López Almodovar (https://github.com/0262370-art)
 
 Both team members contributed to the project through meaningful code, documentation, testing, or other identifiable repository contributions.
 
@@ -77,5 +78,5 @@ Both team members contributed to the project through meaningful code, documentat
 - `AI_declaration.md` — AI-use declaration and relevant prompts, if submitted separately.
 
 **Platform:** Meta Quest 3  
-**Engine:** Unity  
+**Engine:** Unity 
 **Language:** C#
