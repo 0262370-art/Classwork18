@@ -44,7 +44,7 @@ This allows different hand movements to produce different throwing results, maki
 3. Open the project using the Unity version specified in `ProjectSettings/ProjectVersion.txt`.
 4. Make sure the required packages and Meta Quest 3 development tools are installed.
 5. Connect the Meta Quest 3 headset and configure the appropriate Android and XR settings.
-6. Open the main scene located at `[Scene Path]`.
+6. Open the main scene located at `Sample Scene`.
 7. Build and run the project on the Meta Quest 3 headset.
 
 **Note:** The project must be configured for the appropriate Meta Quest 3 build settings before running it on the headset.
